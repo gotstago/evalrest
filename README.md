@@ -15,3 +15,7 @@ evaluating rest api's
 # Blogs
 
 * http://thenewstack.io/make-a-restful-json-api-go/
+* 
+# Testing
+
+* http://txt.fliglio.com/2014/12/testing-microservices-in-go/
