@@ -11,3 +11,7 @@ Potential REST frameworks
 # https://github.com/emicklei/go-restful
 # https://github.com/hoisie/web
 # http://www.gorillatoolkit.org
+
+# Blogs
+
+* http://thenewstack.io/make-a-restful-json-api-go/
