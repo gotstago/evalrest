@@ -1,4 +1,4 @@
-# evalrest
+# evaluating rest API's
 evaluating rest api's
 
 Potential REST frameworks
