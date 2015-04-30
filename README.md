@@ -15,6 +15,7 @@ evaluating rest api's
 # Blogs
 
 * http://thenewstack.io/make-a-restful-json-api-go/
+* http://howistart.org/posts/go/1#querying-multiple-apis
 
 # Testing
 
