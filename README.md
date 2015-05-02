@@ -24,3 +24,7 @@ evaluating rest api's
 # Cassandra Resources
 
 * http://relops.com/cqlc/
+
+# Utility Resources
+
+* https://github.com/StefanSchroeder/Golang-Regex-Tutorial/blob/master/01-chapter1.markdown
