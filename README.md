@@ -21,6 +21,7 @@ evaluating rest api's
 
 * http://txt.fliglio.com/2014/12/testing-microservices-in-go/
 * http://modocache.io/restful-go
+* http://pivotallabs.com/a-rubyist-leaning-go-testing-http-handlers/
 
 # Cassandra Resources
 
