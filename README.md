@@ -20,6 +20,7 @@ evaluating rest api's
 # Testing
 
 * http://txt.fliglio.com/2014/12/testing-microservices-in-go/
+* http://modocache.io/restful-go
 
 # Cassandra Resources
 
