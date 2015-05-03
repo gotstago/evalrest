@@ -33,3 +33,4 @@ evaluating rest api's
 # Utility Resources
 
 * https://github.com/StefanSchroeder/Golang-Regex-Tutorial/blob/master/01-chapter1.markdown
+* https://github.com/modocache/gin
