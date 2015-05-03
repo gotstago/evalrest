@@ -18,6 +18,7 @@ evaluating rest api's
 * http://howistart.org/posts/go/1#querying-multiple-apis
 * http://www.goinggo.net/2013/07/how-packages-work-in-go-language.html
 * http://modocache.io/restful-go
+* http://modocache.svbtle.com/continuous-integration-in-go
 
 # Testing
 
