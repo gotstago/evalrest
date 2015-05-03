@@ -19,6 +19,7 @@ evaluating rest api's
 * http://www.goinggo.net/2013/07/how-packages-work-in-go-language.html
 * http://modocache.io/restful-go
 * http://modocache.svbtle.com/continuous-integration-in-go
+* http://txt.fliglio.com/2014/07/restful-microservices-in-go-with-gin/
 
 # Testing
 
