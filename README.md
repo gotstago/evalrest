@@ -11,6 +11,7 @@ evaluating rest api's
 * https://github.com/emicklei/go-restful
 * https://github.com/hoisie/web
 * http://www.gorillatoolkit.org
+* https://github.com/codegangsta/negroni
 
 # Blogs
 
