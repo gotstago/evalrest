@@ -16,6 +16,7 @@ evaluating rest api's
 
 * http://thenewstack.io/make-a-restful-json-api-go/
 * http://howistart.org/posts/go/1#querying-multiple-apis
+* http://www.goinggo.net/2013/07/how-packages-work-in-go-language.html
 
 # Testing
 
