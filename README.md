@@ -22,6 +22,7 @@ evaluating rest api's
 * http://modocache.svbtle.com/continuous-integration-in-go
 * http://txt.fliglio.com/2014/07/restful-microservices-in-go-with-gin/
 * http://nicolasmerouze.com/build-web-framework-golang/
+** http://nicolasmerouze.com/middlewares-golang-best-practices-examples/ 
 
 # Testing
 
