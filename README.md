@@ -35,6 +35,7 @@ evaluating rest api's
 # Cassandra Resources
 
 * http://relops.com/cqlc/
+* http://soryy.com/blog/2014/common-mistakes-with-go-lang/
 
 # Utility Resources
 
