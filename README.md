@@ -23,6 +23,7 @@ evaluating rest api's
 * http://txt.fliglio.com/2014/07/restful-microservices-in-go-with-gin/
 * http://nicolasmerouze.com/build-web-framework-golang/
 * http://nicolasmerouze.com/middlewares-golang-best-practices-examples/ ***
+* http://www.alexedwards.net/blog/golang-response-snippets#file
 
 # Testing
 
