@@ -13,6 +13,9 @@ evaluating rest api's
 * http://www.gorillatoolkit.org
 * https://github.com/codegangsta/negroni
 
+#AWS 
+* http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html?utm_medium=email&utm_source=golangweekly
+
 # Blogs
 
 * http://thenewstack.io/make-a-restful-json-api-go/
