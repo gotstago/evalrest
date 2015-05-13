@@ -27,6 +27,7 @@ evaluating rest api's
 * http://nicolasmerouze.com/build-web-framework-golang/
 * http://nicolasmerouze.com/middlewares-golang-best-practices-examples/ ***
 * http://www.alexedwards.net/blog/golang-response-snippets#file
+* http://engineering.strava.com/finagle-compatible-service-discovery-in-go/
 
 # Testing
 
