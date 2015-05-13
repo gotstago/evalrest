@@ -28,6 +28,7 @@ evaluating rest api's
 * http://nicolasmerouze.com/middlewares-golang-best-practices-examples/ ***
 * http://www.alexedwards.net/blog/golang-response-snippets#file
 * http://engineering.strava.com/finagle-compatible-service-discovery-in-go/
+* http://blog.gopheracademy.com/birthday-bash-2014/kite-microservice-library/
 
 # Testing
 
