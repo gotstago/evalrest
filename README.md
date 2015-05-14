@@ -47,3 +47,7 @@ evaluating rest api's
 
 * https://github.com/StefanSchroeder/Golang-Regex-Tutorial/blob/master/01-chapter1.markdown
 * https://github.com/modocache/gin
+
+# Streams
+
+* https://github.com/jprobinson/streamtools
