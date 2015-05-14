@@ -15,6 +15,7 @@ evaluating rest api's
 
 #AWS 
 * http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html?utm_medium=email&utm_source=golangweekly
+* https://www.youtube.com/watch?v=hyyTwhT7894
 
 # Blogs
 
