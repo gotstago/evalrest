@@ -12,6 +12,7 @@ evaluating rest api's
 * https://github.com/hoisie/web
 * http://www.gorillatoolkit.org
 * https://github.com/codegangsta/negroni
+* https://github.com/koding/kite
 
 #AWS 
 * http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html?utm_medium=email&utm_source=golangweekly
