@@ -13,6 +13,7 @@ evaluating rest api's
 * http://www.gorillatoolkit.org
 * https://github.com/codegangsta/negroni
 * https://github.com/koding/kite
+* https://github.com/VividCortex/siesta or https://vividcortex.com/blog/2015/06/01/siesta/
 
 #AWS 
 * http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html?utm_medium=email&utm_source=golangweekly
