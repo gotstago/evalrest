@@ -33,6 +33,7 @@ evaluating rest api's
 * http://engineering.strava.com/finagle-compatible-service-discovery-in-go/
 * http://blog.gopheracademy.com/birthday-bash-2014/kite-microservice-library/
 * http://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial
+* https://joeshaw.org/net-context-and-http-handler/#custom-context-handler-types
 
 # Testing
 
