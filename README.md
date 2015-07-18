@@ -36,6 +36,10 @@ evaluating rest api's
 * https://joeshaw.org/net-context-and-http-handler/#custom-context-handler-types
 * http://www.alexedwards.net/blog/organising-database-access
 
+# Security
+
+* https://blog.nvisium.com/2015/07/golang-security-and-concurrency.html?m=1
+
 # Testing
 
 * http://txt.fliglio.com/2014/12/testing-microservices-in-go/
