@@ -18,6 +18,8 @@ evaluating rest api's
 #AWS 
 * http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html?utm_medium=email&utm_source=golangweekly
 * https://www.youtube.com/watch?v=hyyTwhT7894
+* http://blogs.aws.amazon.com/security/post/TxRTTT5PLUE6B5/How-to-use-Shibboleth-for-single-sign-on-to-the-AWS-Management-Console
+* https://developer.salesforce.com/page/Configuring-SAML-SSO-to-AWS
 
 # Blogs
 
