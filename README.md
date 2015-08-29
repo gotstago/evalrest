@@ -67,6 +67,11 @@ evaluating rest api's
 * https://github.com/jprobinson/streamtools
 * https://github.com/rsms/gotalk
 * 
-#Authentication
+# Authentication
 
 * https://github.com/go-authboss/authboss
+
+# Files
+
+* http://devdungeon.com/content/working-files-go
+
