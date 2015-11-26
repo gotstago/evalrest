@@ -76,3 +76,7 @@ evaluating rest api's
 
 * http://devdungeon.com/content/working-files-go
 
+# Concurrency
+
+* https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf#.9m6rxjaic
+
