@@ -80,3 +80,8 @@ evaluating rest api's
 
 * https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf#.9m6rxjaic
 
+# Code Generation
+
+* https://blog.gopheracademy.com/advent-2015/goaUntanglingMicroservices/
+
+
